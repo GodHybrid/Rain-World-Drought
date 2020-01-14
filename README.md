@@ -3,10 +3,10 @@ Version: 1.1.3
 RAIN WORLD v1.5
 CONTENT MOD
 
-AUTHORS: Dracentis, Riv Otter, Aurora, Ągness, DirtyDan, Alu, Topicular, Garrakx
+AUTHORS: Dracentis, Alu, Riv Otter, Aurora, Ągness, DirtyDan, Topicular, Garrakx
 
 ***Bug Reports or Feedback***
-Join the Rain World Discord and @Dracentis#6285 in #modding-support or #modding-general
+Join the Rain World Discord and contact us in #modding-support or #modding-general
 
 [DESCRIPTION]
 Rain World Drought is a mod for Rain World that adds a new slugcat (The Wanderer), 
